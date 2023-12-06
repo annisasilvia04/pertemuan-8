@@ -1,0 +1,13 @@
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Release\LatihanADONET.exe.config
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Release\LatihanADONET.exe
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Release\LatihanADONET.pdb
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Release\System.Data.SQLite.dll
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\bin\Release\System.Data.SQLite.xml
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Release\LatihanADONET.csproj.AssemblyReference.cache
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Release\LatihanADONET.Form1.resources
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Release\LatihanADONET.Properties.Resources.resources
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Release\LatihanADONET.csproj.GenerateResource.cache
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Release\LatihanADONET.csproj.CoreCompileInputs.cache
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Release\LatihanADONET.csproj.CopyComplete
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Release\LatihanADONET.exe
+D:\Pemrogramman Lanjut\Module Praktikum 08 (ADO.NET)\LatihanADO.NET\LatihanADONET\obj\Release\LatihanADONET.pdb
